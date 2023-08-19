@@ -11,12 +11,12 @@ based on youtube tutorial:
 
 
  ## commands
-    - mysql.server start
-    - mysql_secure_installation
-    - mysql -uroot -p -e "CREATE DATABASE laravel"
-    - php artisan migrate
-    - php artisan migrate --seed
-    - php artisan make:
-    - php artisan route:list --path=api 
+   - mysql.server start
+   - mysql_secure_installation
+   - mysql -uroot -p -e "CREATE DATABASE laravel"
+   - php artisan migrate
+   - php artisan migrate --seed
+   - php artisan make:
+   - php artisan route:list --path=api 
 
-    - postman GET request http://localhost:8000/api/v1/tasks
+   - postman GET request http://localhost:8000/api/v1/tasks
